@@ -1,3 +1,6 @@
+#CODIGO
+
+```c++
 // C++ code
 //Ivan Gonzalez 1
 #include <Servo.h>
@@ -168,3 +171,4 @@ if (temperatura > 60 && boton){
     temperatura_vieja = temperatura;
   }
 }
+```
